@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 4948c69a1dcc9f74e93c77696e6d71b1
+timeCreated: 1496057933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Default
+    100002: Layer 01
+    100004: Layer 02
+    100006: Layer 03
+    100008: Layer 04
+    100010: Layer 05
+    100012: //RootNode
+    100014: Object_1
+    100016: Object_10
+    100018: Object_12
+    100020: Object_14
+    100022: Object_16
+    100024: Object_18
+    100026: Object_20
+    100028: Object_22
+    100030: Object_24
+    100032: Object_26
+    100034: Object_28
+    100036: Object_3
+    100038: Object_30
+    100040: Object_32
+    100042: Object_34
+    100044: Object_36
+    100046: Object_38
+    100048: Object_4
+    100050: Object_40
+    100052: Object_42
+    100054: Object_44
+    100056: Object_46
+    100058: Object_48
+    100060: Object_5
+    100062: Object_50
+    100064: Object_52
+    100066: Object_54
+    100068: Object_56
+    100070: Object_58
+    100072: Object_5_MeshPart0
+    100074: Object_5_MeshPart1
+    100076: Object_5_MeshPart2
+    100078: Object_6
+    100080: Object_60
+    100082: Object_62
+    100084: Object_64
+    100086: Object_66
+    100088: Object_68
+    100090: Object_70
+    100092: Object_72
+    100094: Object_74
+    100096: Object_76
+    100098: Object_78
+    100100: Object_8
+    100102: Object_80
+    100104: Rds_01
+    400000: Default
+    400002: Layer 01
+    400004: Layer 02
+    400006: Layer 03
+    400008: Layer 04
+    400010: Layer 05
+    400012: //RootNode
+    400014: Object_1
+    400016: Object_10
+    400018: Object_12
+    400020: Object_14
+    400022: Object_16
+    400024: Object_18
+    400026: Object_20
+    400028: Object_22
+    400030: Object_24
+    400032: Object_26
+    400034: Object_28
+    400036: Object_3
+    400038: Object_30
+    400040: Object_32
+    400042: Object_34
+    400044: Object_36
+    400046: Object_38
+    400048: Object_4
+    400050: Object_40
+    400052: Object_42
+    400054: Object_44
+    400056: Object_46
+    400058: Object_48
+    400060: Object_5
+    400062: Object_50
+    400064: Object_52
+    400066: Object_54
+    400068: Object_56
+    400070: Object_58
+    400072: Object_5_MeshPart0
+    400074: Object_5_MeshPart1
+    400076: Object_5_MeshPart2
+    400078: Object_6
+    400080: Object_60
+    400082: Object_62
+    400084: Object_64
+    400086: Object_66
+    400088: Object_68
+    400090: Object_70
+    400092: Object_72
+    400094: Object_74
+    400096: Object_76
+    400098: Object_78
+    400100: Object_8
+    400102: Object_80
+    400104: Rds_01
+    2300000: Object_1
+    2300002: Object_10
+    2300004: Object_12
+    2300006: Object_14
+    2300008: Object_16
+    2300010: Object_18
+    2300012: Object_20
+    2300014: Object_22
+    2300016: Object_24
+    2300018: Object_26
+    2300020: Object_28
+    2300022: Object_3
+    2300024: Object_30
+    2300026: Object_32
+    2300028: Object_34
+    2300030: Object_36
+    2300032: Object_38
+    2300034: Object_4
+    2300036: Object_40
+    2300038: Object_42
+    2300040: Object_44
+    2300042: Object_46
+    2300044: Object_48
+    2300046: Object_50
+    2300048: Object_52
+    2300050: Object_54
+    2300052: Object_56
+    2300054: Object_58
+    2300056: Object_5_MeshPart0
+    2300058: Object_5_MeshPart1
+    2300060: Object_5_MeshPart2
+    2300062: Object_6
+    2300064: Object_60
+    2300066: Object_62
+    2300068: Object_64
+    2300070: Object_66
+    2300072: Object_68
+    2300074: Object_70
+    2300076: Object_72
+    2300078: Object_74
+    2300080: Object_76
+    2300082: Object_78
+    2300084: Object_8
+    2300086: Object_80
+    3300000: Object_1
+    3300002: Object_10
+    3300004: Object_12
+    3300006: Object_14
+    3300008: Object_16
+    3300010: Object_18
+    3300012: Object_20
+    3300014: Object_22
+    3300016: Object_24
+    3300018: Object_26
+    3300020: Object_28
+    3300022: Object_3
+    3300024: Object_30
+    3300026: Object_32
+    3300028: Object_34
+    3300030: Object_36
+    3300032: Object_38
+    3300034: Object_4
+    3300036: Object_40
+    3300038: Object_42
+    3300040: Object_44
+    3300042: Object_46
+    3300044: Object_48
+    3300046: Object_50
+    3300048: Object_52
+    3300050: Object_54
+    3300052: Object_56
+    3300054: Object_58
+    3300056: Object_5_MeshPart0
+    3300058: Object_5_MeshPart1
+    3300060: Object_5_MeshPart2
+    3300062: Object_6
+    3300064: Object_60
+    3300066: Object_62
+    3300068: Object_64
+    3300070: Object_66
+    3300072: Object_68
+    3300074: Object_70
+    3300076: Object_72
+    3300078: Object_74
+    3300080: Object_76
+    3300082: Object_78
+    3300084: Object_8
+    3300086: Object_80
+    4300000: Object_1
+    4300002: Object_3
+    4300004: Object_5_MeshPart0
+    4300006: Object_5_MeshPart1
+    4300008: Object_5_MeshPart2
+    4300010: Object_4
+    4300012: Object_6
+    4300014: Object_8
+    4300016: Object_10
+    4300018: Object_12
+    4300020: Object_14
+    4300022: Object_16
+    4300024: Object_18
+    4300026: Object_20
+    4300028: Object_22
+    4300030: Object_24
+    4300032: Object_26
+    4300034: Object_28
+    4300036: Object_30
+    4300038: Object_32
+    4300040: Object_34
+    4300042: Object_36
+    4300044: Object_38
+    4300046: Object_40
+    4300048: Object_42
+    4300050: Object_44
+    4300052: Object_46
+    4300054: Object_48
+    4300056: Object_50
+    4300058: Object_52
+    4300060: Object_54
+    4300062: Object_56
+    4300064: Object_58
+    4300066: Object_60
+    4300068: Object_62
+    4300070: Object_64
+    4300072: Object_66
+    4300074: Object_68
+    4300076: Object_70
+    4300078: Object_72
+    4300080: Object_74
+    4300082: Object_76
+    4300084: Object_78
+    4300086: Object_80
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
